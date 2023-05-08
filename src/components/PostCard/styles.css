@@ -1,0 +1,25 @@
+.post:hover{
+    transform: scale(1.02);
+  }
+.post {
+  background: #FFF;
+  border-radius: 5px;
+  box-shadow: 0 0 5px #0000001a;
+  overflow: hidden;
+  transition: transform 0.2s ease-in-out;
+}
+.post img{
+  max-width: 100%;
+  height: auto;
+}
+.post-content {
+  padding: 20px;
+}
+.post-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.post-body {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
