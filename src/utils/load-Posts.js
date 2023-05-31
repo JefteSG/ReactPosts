@@ -1,6 +1,6 @@
 export const loadPosts = async () => {
   try {
-    const response = await fetch('http://localhost:3001/posts');
+    const response = await fetch('https://posts-52geqcmze-jeftesg.vercel.app/posts');
     const posts = await response.json();
     return posts;
   } catch (error) {
