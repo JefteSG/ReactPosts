@@ -7,10 +7,14 @@
   box-shadow: 0 0 5px #0000001a;
   overflow: hidden;
   transition: transform 0.2s ease-in-out;
+  text-align: center;
 }
 .post img{
   max-width: 100%;
-  height: auto;
+  height: 300px;
+  margin-top: 5px;
+  border-radius: 3px;
+
 }
 .post-content {
   padding: 20px;
