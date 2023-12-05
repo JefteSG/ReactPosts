@@ -19,6 +19,7 @@
 </ul>
 <h2>Como executar</h2>
 <ol>
+    <li><a href="https://spontaneous-biscotti-a88b91.netlify.app/" target="_blank">Link do Projeto</a></li>
     <li>Clone este repositório</li>
     <li>Execute o comando npm install para instalar as dependências</li>
     <li>Execute o comando npm start para iniciar a aplicação</li>
